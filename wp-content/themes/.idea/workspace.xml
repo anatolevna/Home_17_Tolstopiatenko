@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abb9ed07-cb4b-4794-adf6-b8e8792bd766" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="38" />
+              <folding>
+                <marker date="1517132003324" expanded="true" signature="31:7726" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="38:382" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="389:7726" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="422:1056" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="459:1046" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="488:975" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="698:960" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1063:7188" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1129:2325" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1161:2310" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1202:2295" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1223:1559" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1262:1537" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1580:1913" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1619:1891" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1934:2277" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="1973:2255" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="2376:3605" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="2417:3590" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="2458:3108" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="2532:2853" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="2888:3089" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3140:3575" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3183:3556" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3275:3369" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3480:3533" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3658:7180" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3690:7165" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3729:4108" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="3758:4056" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="4152:6241" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="4185:6222" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="6281:7150" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="6457:7131" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="7197:7718" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="7225:7708" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="7257:7697" ph="..." />
+                <marker date="1517132003324" expanded="true" signature="7288:7682" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-music.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-music-single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music-single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_typography.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/base/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="483" column="0" lean-forward="false" selection-start-line="483" selection-start-column="0" selection-end-line="483" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>style</find>
+      <find>wp</find>
+      <find>os</find>
+      <find>nav</find>
+      <find>logo</find>
+      <find>footer</find>
+      <find>container</find>
+      <find>customizer</find>
+      <find>html5</find>
+      <find>home-top</find>
+      <find>wp_query</find>
+      <find>gear</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cactus/header.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page.php" />
+        <option value="$PROJECT_DIR$/cactus/index.php" />
+        <option value="$PROJECT_DIR$/azera-shop/index.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/404.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/style.css" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/main.scss" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/css/styles.css" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/fonts/_typography.scss" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/utils/_variables.scss" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/footer.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.html" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/header.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/base/_base.scss" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/js/theme-customizer.js" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/inc/customizer.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/home.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/functions.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post/content-page.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-test_post.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page-custom-post.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/single-music.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page-music-albums.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music-single.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music.php" />
+        <option value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/base/_typography.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/node_modules" />
+    <handled-path value="$PROJECT_DIR$/temp/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="132" />
+    <option name="y" value="22" />
+    <option name="width" value="1068" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home_8_Tolstopiatenko_Iryna_Notify" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home_8_Tolstopiatenko_Iryna_Notify" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home_8_Tolstopiatenko_Iryna_Notify" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home_8_Tolstopiatenko_Iryna_Notify" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="base" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home_8_Tolstopiatenko_Iryna_Notify" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template-parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="temp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify" />
+      <recent name="$PROJECT_DIR$/temp" />
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post" />
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts" />
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/wpcustomizer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts" />
+      <recent name="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="page-music-albums.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page-music-albums.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.page-music-albums.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abb9ed07-cb4b-4794-adf6-b8e8792bd766" name="Default" comment="" />
+      <created>1516813011863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516813011863</updated>
+      <workItem from="1516813013056" duration="11629000" />
+      <workItem from="1516969982043" duration="6666000" />
+      <workItem from="1517063441896" duration="29490000" />
+      <workItem from="1517431500326" duration="55630000" />
+      <workItem from="1518298429518" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103760000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="132" y="22" width="1068" height="813" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37719297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.50308913" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2103064" sideWeight="0.49691087" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="e#6#265#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/data.php" />
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#6#429#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cactus/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cactus/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1755">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cactus/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/notify/inc/custom-header.php" />
+    <entry file="file://$PROJECT_DIR$/notify/index.php" />
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/layouts/content-sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/languages/notify.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2213">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify/style.css" />
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/inc/jetpack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post/content-none.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/azera-shop/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cactus/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index_.html" />
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/data.php" />
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GeekHub/home_9_Tolstopiatenko_Iryna_Lets_Rock/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/fonts/HelveticaNeue/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/fonts/Raleway-SemiBold/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="138" lean-forward="false" selection-start-line="10" selection-start-column="138" selection-end-line="10" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/inc/custom-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/from v/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-591">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cactus/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/js/customizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="519" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="856" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5125">
+          <caret line="431" column="20" lean-forward="true" selection-start-line="431" selection-start-column="20" selection-end-line="431" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/utils/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/js/theme-customizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="35" column="95" lean-forward="false" selection-start-line="35" selection-start-column="95" selection-end-line="35" selection-end-column="95" />
+          <folding>
+            <element signature="e#6#265#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-681">
+          <caret line="75" column="6" lean-forward="false" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="71" lean-forward="false" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <element signature="e#312#318#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post/content-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/post/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="297" column="0" lean-forward="false" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/single-music.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="46" column="61" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <element signature="e#6#429#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/base/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/page-music-albums.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/template-parts/content-music.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="38" />
+          <folding>
+            <marker date="1517132003324" expanded="true" signature="31:7726" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="38:382" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="389:7726" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="422:1056" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="459:1046" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="488:975" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="698:960" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1063:7188" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1129:2325" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1161:2310" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1202:2295" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1223:1559" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1262:1537" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1580:1913" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1619:1891" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1934:2277" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="1973:2255" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="2376:3605" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="2417:3590" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="2458:3108" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="2532:2853" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="2888:3089" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3140:3575" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3183:3556" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3275:3369" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3480:3533" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3658:7180" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3690:7165" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3729:4108" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="3758:4056" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="4152:6241" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="4185:6222" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="6281:7150" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="6457:7131" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="7197:7718" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="7225:7708" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="7257:7697" ph="..." />
+            <marker date="1517132003324" expanded="true" signature="7288:7682" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_8_Tolstopiatenko_Iryna_Notify/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="483" column="0" lean-forward="false" selection-start-line="483" selection-start-column="0" selection-end-line="483" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
